@@ -1,0 +1,36 @@
+.top{
+    margin: 0px;
+    padding: 35px 40px;
+    background-color: #FFFBF0;
+}
+.name{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px;
+    color: #363958;
+}
+.btn1{
+    font-weight: bold;
+    border: none;
+    margin: 10px;
+    padding: 8px;
+    width: 120px;
+    border-radius: 6px;
+    background-color: rgba(96, 206, 96, 0.815);
+    cursor: pointer;
+    justify-content: center;
+}
+.image1 img{
+    height: 293px;
+    width: 293px;
+    background-color: #F1F1F1;
+    border-radius: 8px;
+    margin: 15px;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.submit{
+    background-color:#FFFBF0;
+}
